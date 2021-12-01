@@ -7719,7 +7719,8 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #77b5fe !important;
+  color: #3C5B80 !important;
+  /* color: #77b5fe; (couleur bleu ciel) */
 }
 
 .text-secondary {
@@ -11408,7 +11409,8 @@ p.lead {
 }
 
 #aboutMe{
-  background-image: url(../img/about2.png);
+  background-image: url(../img/about-2.png);
+  color: #000;
 }
 
 section.resume-section {
