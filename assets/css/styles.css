@@ -11412,6 +11412,9 @@ p.lead {
   background-image: url(../img/about-2.png);
   color: #000;
 }
+.boldText{
+  font-weight: bold;
+}
 
 section.resume-section {
   display: flex;
