@@ -7720,7 +7720,7 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
   color: #3C5B80 !important;
-  /* color: #77b5fe; (couleur bleu ciel) */
+ /*  color: #000; */
 }
 
 .text-secondary {
