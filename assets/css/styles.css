@@ -11332,6 +11332,7 @@ p.lead {
 }
 
 #sideNav {
+  background-color: #8c745e;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -11365,7 +11366,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid rgba(217, 191, 168, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
