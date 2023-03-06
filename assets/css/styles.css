@@ -11429,10 +11429,11 @@ section.resume-section {
 section.resume-section .resume-section-content {
   width: 100%;
 }
-
+<!-- -->
 @media (min-width: 768px) {
   section.resume-section {
-    min-height: 100vh;
+    /* anciennement min-height: 100vh */
+    min-height: 89vh;
   }
 }
 @media (min-width: 992px) {
